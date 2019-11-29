@@ -17,11 +17,22 @@ Change directory into the cloned repository:
 ```console
 $ cd mlap19
 ```
-Create the work environment:
+Create a new environment:
 
 ```console
 $ conda env create -f mlap19_env.yml
 ```
+Activate the new environment:
+
+```console
+$ conda activate mlap19
+```
+Verify that the new environment was correctly installed:
+
+```console
+$ conda env list
+```
+The name of the new environment, ```mlap19```, should show up in the list. 
 
 ## Contact
 
