@@ -22,6 +22,8 @@ dependencies:
   - r-gbm
   - r-mclust
   - r-klar
+  - r-gplots
+  - r-neuralnet
   - jupyter
   - numpy
   - matplotlib
