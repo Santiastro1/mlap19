@@ -1,5 +1,5 @@
 # mlap19
-Machine Learning and Application to Physics Workshop '19
+[Machine Learning and Application to Physics Workshop '19](https://indico.fis.ucm.es/event/13/overview)
 
 This repository is meant to help MLAP19 participants to set up a work environment for the hands-on sessions of the workshop, as well as donwload some example datasets to be used during these sessions. 
 
