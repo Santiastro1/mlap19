@@ -3,6 +3,7 @@ name: mlap19
 channels:
   - defaults
   - conda-forge
+  - pytorch
 dependencies:
   - python=3.7
   - r-essentials
@@ -25,6 +26,8 @@ dependencies:
   - numpy
   - matplotlib
   - scikit-learn
+  - pytorch
+  - torchvision
   - pip
   - pip:
     - ripa
