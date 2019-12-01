@@ -36,7 +36,7 @@ The name of the new environment, ```mlap19```, should show up in the list.
 
 ## Updating installation
 
-Should you need to update an already existing ````mlap19``` environment with a newer ```mlap19_env.yml``` version:
+Should you need to update an already existing ```mlap19``` environment with a newer ```mlap19_env.yml``` version:
 
 ```console
 $ conda env update --name mlap19 -f mlap19_env.yml --prune
