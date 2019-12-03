@@ -6,6 +6,8 @@ channels:
   - pytorch
 dependencies:
   - python=3.7
+  - tensorflow=1.14
+  - pandas
   - r-essentials
   - r-base
   - r-bmp
